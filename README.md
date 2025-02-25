@@ -7,6 +7,8 @@ Fundamentals of Python
 - Variables
 - Keywords
 - Input and Output
+- Operators
+- Data Types
 - 
 
 ### Technologies
