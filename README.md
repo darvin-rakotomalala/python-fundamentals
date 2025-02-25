@@ -5,6 +5,8 @@ Fundamentals of Python
 - Syntax
 - Comments
 - Variables
+- Keywords
+- Input and Output
 - 
 
 ### Technologies
